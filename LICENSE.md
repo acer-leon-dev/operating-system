@@ -1,4 +1,4 @@
-# CMake SFML Project Licenses
+# CMake SFML Project License
 
 ## Public Domain
 
